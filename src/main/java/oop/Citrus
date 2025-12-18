@@ -1,7 +1,8 @@
 package oop;
 
-public abstract class Citrus{
+public abstract class Citrus extends Fruit{
     public final boolean HAS_RIND = true;
     public final boolean SEGMENTED_PULP = true;
     public final boolean acidic = true;
+    
 }

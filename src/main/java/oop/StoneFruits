@@ -1,0 +1,7 @@
+package oop;
+
+public abstract class StoneFruits extends Fruit {
+    public final boolean FLESHY = true;
+    public final boolean HAS_PIT = true;
+    
+}
